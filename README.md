@@ -111,7 +111,55 @@ Credits and references used in this README:
 ---
 
 
+---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/harshsaxenaid-png/kochi_metro_backend">
+        <img src="https://images.unsplash.com/photo-1554672407-fb6497588810?w=800&auto=format&fit=crop"
+             alt="Metro Scheduling System"
+             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"/>
+      </a>
+      <br/>
+      <b>AI-Driven Metro Scheduling Engine</b><br/>
+      <sub>Hybrid scheduling system processing 2,500+ trips using ensemble ML (XGBoost, Random Forest) and OR-Tools constraint optimization with explainable AI scoring.</sub><br/>
+      🔗 <a href="https://github.com/harshsaxenaid-png/kochi_metro_backend">Repo</a>
+      <br/>
+      <sub>Tags: XGBoost, OR-Tools, Explainable AI</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/harshsaxenaid-png/clinical_ai_backend">
+        <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&auto=format&fit=crop"
+             alt="Clinical AI System"
+             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"/>
+      </a>
+      <br/>
+      <b>Clinical AI Decision Support</b><br/>
+      <sub>Multimodal RAG system reducing diagnosis time by 75% (20→5 min) with 92% accuracy across 200+ conditions using FAISS, Whisper, and FastAPI.</sub><br/>
+      🔗 <a href="https://github.com/harshsaxenaid-png/clinical_ai_backend">Repo</a>
+      <br/>
+      <sub>Tags: RAG, FAISS, Medical NLP, FastAPI</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/harshsaxenaid-png/MarketSenseAI">
+        <img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&auto=format&fit=crop"
+             alt="Market Prediction AI"
+             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"/>
+      </a>
+      <br/>
+      <b>MarketSenseAI</b><br/>
+      <sub>Time-series prediction engine with LSTM models achieving ~89% directional accuracy, integrated with LLM reasoning layer for analyst-grade explanations.</sub><br/>
+      🔗 <a href="https://github.com/harshsaxenaid-png/MarketSenseAI">Repo</a>
+      <br/>
+      <sub>Tags: LSTM, Time-Series, RAG, Streamlit</sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ## Connect with Me
